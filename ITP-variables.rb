@@ -1,3 +1,0 @@
-#Exercises
-
-#1
